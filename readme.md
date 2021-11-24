@@ -10,10 +10,10 @@ Simple project to adapt an oldschool solenoid (battery powered) doorbell to a ma
     - Off = HIGH
     - Ring = LOW
 - Kerui KR-F53-B transmitter board
-- No-name reciever board ($2 on ebay)
+- No-name receiver board ($2 on ebay)
 
 ## Wiring Reminders
 - Single 5V across all modules in parallel
 - Ground across all modules in parallel
 - Single breakaways for signal wiring (relay & transmitter)
-- Relay closes circuit across solenoid in doorbell (Normally Opened wiring)
+- Relay closes circuit across solenoid in doorbell (wired to Normally Opened)
