@@ -1,8 +1,6 @@
 # Arduino Doorbell
 Simple project to adapt an oldschool solenoid (battery powered) doorbell to a mains powered, wireless doorbell.
 
-<hr>
-
 ## Specs
 - 433 MHz receiver
 - Arduino nano clone (Atmel atmega328pb)
