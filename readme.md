@@ -1,10 +1,19 @@
 # Arduino Doorbell
-Simple project to adapt an oldschool solenoid (battery powered) doorbell to a mains volate powered, wireless doorbell.
+Simple project to adapt an oldschool solenoid (battery powered) doorbell to a mains powered, wireless doorbell.
+
+<hr>
 
 ## Specs
-- 433mhz receiver
-- arduino (Atmel atmega328pb)
-- 5V solenoid wired to NO
+- 433 MHz receiver
+- Arduino nano clone (Atmel atmega328pb)
+- 5V solenoid wired to Relay NO
+    - Off = HIGH
+    - Ring = LOW
+- Kerui KR-F53-B transmitter board
+- No-name reciever board ($2 on ebay)
 
-## Transmitter
-- Kerui KR-F53-B board
+## Wiring Reminders
+- Single 5V across all modules in parallel
+- Ground across all modules in parallel
+- Single breakaways for signal wiring (relay & transmitter)
+- Relay closes circuit across solenoid in doorbell (Normally Opened wiring)
