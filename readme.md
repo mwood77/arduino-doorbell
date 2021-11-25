@@ -15,3 +15,11 @@ Simple project to adapt an oldschool solenoid (battery powered) doorbell to a ma
 - Ground across all modules in parallel
 - Single breakaways for signal wiring (relay & transmitter)
 - Relay closes circuit across solenoid in doorbell (wired to Normally Opened)
+
+## Circuit Diagram
+> ⚠️ I never said I was good at this
+
+
+I suspect that your implementation will be different, therefore this may not be of help to you.
+
+<img src="./circuit.svg" width="100%" height="100%" style="background-color:#ffffff">
