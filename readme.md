@@ -19,7 +19,7 @@ Simple project to adapt an oldschool solenoid (battery powered) doorbell to a ma
 ## Circuit Diagram
 > ⚠️ I never said I was good at this
 
+- I suspect that your implementation will be different, therefore this may not be of help to you.
+- There's both an SVG and JPEG of the diagram in the repo, should you need it.
 
-I suspect that your implementation will be different, therefore this may not be of help to you.
-
-<img src="./circuit.svg" width="100%" height="100%" style="background-color:white">
+<img src="circuit.jpg" width="100%" height="100%" style="background-color:white">
